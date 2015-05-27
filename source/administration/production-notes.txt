@@ -298,6 +298,8 @@ To fully disable NUMA behavior, you must perform both operations. For more
 information, see the `Documentation for /proc/sys/vm/*
 <http://www.kernel.org/doc/Documentation/sysctl/vm.txt>`_.
 
+If you running Ubuntu - simply install "numactl" package and restart mongod service.
+
 Disk and Storage Systems
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
